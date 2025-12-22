@@ -7,30 +7,7 @@
   <title>我的个人主页</title>
   <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
-  <style>
-    body {
-      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    }
-    .hero-bg {
-      background: linear-gradient(135deg, #6e8efb, #a777e3);
-    }
-    .section-bg {
-      background-color: #f9fafb;
-    }
-    .hover-card:hover {
-      transform: translateY(-5px);
-      box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
-    }
-    .skill-bar {
-      height: 10px;
-      border-radius: 5px;
-      background-color: #e5e7eb;
-    }
-    .skill-progress {
-      height: 100%;
-      border-radius: 5px;
-    }
-  </style>
+
 </head>
 <body class="bg-gray-50 text-gray-800">
 
